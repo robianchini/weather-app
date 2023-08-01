@@ -1,0 +1,11 @@
+export const BlueLight = "#8FB2F5";
+export const Gray100 = "#FAFAFA";
+export const Gray200 = "#BFBFD4";
+export const Gray300 = "#ABABC4";
+export const Gray400 = "#7F7F98";
+export const Gray500 = "#3B3B54";
+export const Gray600 = "#22222F";
+export const Gray700 = "#1C1C27";
+export const Gray800 = "#16161F";
+export const Gray900 = "#13131A";
+export const White = "#FFFFFF";
